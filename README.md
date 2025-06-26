@@ -14,7 +14,7 @@
 
 ![aishwarya2005thakur's Stats](https://github-readme-stats.vercel.app/api?username=aishwarya2005thakur&theme=radical&show_icons=true&hide_border=true&count_private=true)
 ![aishwarya2005thakur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aishwarya2005thakur&theme=radical&hide_border=true)
-![aishwarya2005thakur's Top Languages]
+![aishwarya2005thakur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwarya2005thakur&theme=radical&show_icons=true&hide_border=true&layout=compact)
 ![Aishwarya's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishwarya2005thakur&theme=rogue&hide_border=true)
 
 </div>
