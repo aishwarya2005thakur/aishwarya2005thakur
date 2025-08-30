@@ -91,7 +91,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="60" wodth="900" />
 
 
-
-<img src="https://komarev.com/ghpvc/?username=aishwarya2005thakur&color=blue" alt="watching_count" />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
 
 ###
