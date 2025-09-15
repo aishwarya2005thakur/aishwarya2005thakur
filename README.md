@@ -2,12 +2,33 @@
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="50" height="50" /> What's up? </h1>
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="500">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=2500&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aishwarya+Thakur+👋;Full-Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Game+Dev+Enthusiast+👾" alt="Typing SVG" />
+</div>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
+
+```javascript
+const aish = {
+    name: "Aishwarya Thakur",
+    role: "Full-Stack Developer",
+    location: "Building chaos into products, one commit at a time. ✨",
+    
+    expertise: {
+        languages: ["Python", "JavaScript", "TypeScript", "C++", "C#", "GML"],
+        frontend: ["React", "Next.js", "React native (Expo)", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "REST APIs", "OpenAI API", "GraphQL"],
+        database: ["MongoDB", "MySQL", "Supabase"],
+        cloud: ["AWS", "Vercel", "Netlify"]
+    },
+    
+    currentlyExploring: " Machine Learning 🤖 & Game dev 👾",
+    motto: "Stacking bugs until they look like features."
+};
+```
+
 <br>
 
-<p align="left"> <B>Salve! My name is Aishwarya thakur, I'm a Tech Enthusiast and a cat lover from India </B></p>
-<br>
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><b> Github Analytics</b></span></h2>
 <div align="center">
@@ -79,9 +100,13 @@
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="45" align="center"><span><b> Let's Connect</b></span></h2>
 
 <div align="left">
-  <a href="mailto: thakuraishwarya943@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-thakur-513011338/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakuraishwarya943@gmail.com)
+
 </div>
+
 
 ###
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
