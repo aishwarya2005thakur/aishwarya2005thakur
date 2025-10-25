@@ -12,14 +12,15 @@
 const aish = {
     name: "Aishwarya Thakur",
     role: "Full-Stack Developer",
-    location: "Building chaos into products, one commit at a time. ✨",
+    location: "Earth 🌏 (open to relocate)",
+    motto: "Building chaos into products, one commit at a time. ✨",
     
     expertise: {
         languages: ["Python", "JavaScript", "TypeScript", "C++", "C#", "GML"],
         frontend: ["React", "Next.js", "React native (Expo)", "Tailwind CSS"],
         backend: ["Node.js", "Express", "REST APIs", "OpenAI API", "GraphQL"],
         database: ["MongoDB", "MySQL", "Supabase"],
-        cloud: ["AWS", "Vercel", "Netlify"]
+        cloud: ["AWS", "Vercel", "Netlify" , "Render"]
     },
     
     currentlyExploring: " Machine Learning 🤖 & Game dev 👾",
